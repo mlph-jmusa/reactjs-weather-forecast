@@ -1,0 +1,27 @@
+[
+    {
+        "type": "Rain cloudy",
+        "temperature": 28,
+        "image_url": "https://ssl.gstatic.com/onebox/weather/48/rain_s_cloudy.png"
+    },
+    {
+        "type": "Partly cloudy",
+        "temperature": 29,
+        "image_url": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+    },
+    {
+        "type": "Thunderstorm",
+        "temperature": 26,
+        "image_url": "https://ssl.gstatic.com/onebox/weather/48/thunderstorms.png"
+    },
+    {
+        "type": "Sunny",
+        "temperature": 33,
+        "image_url": "https://ssl.gstatic.com/onebox/weather/48/sunny.png"
+    },
+    {
+        "type": "Rainy",
+        "temperature": 30,
+        "image_url": "https://ssl.gstatic.com/onebox/weather/48/rain.png"
+    }
+]
